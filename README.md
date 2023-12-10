@@ -1,6 +1,6 @@
 # Enefit - Predict Energy Behavior of Prosumers Kaggle competition
 <br>
-This repository contains a data science group project developed as a part of Introduction to Data Science course - LTAT.02.002 at the University of Tartu 2023.
+This repository contains a data science group project information developed as a part of Introduction to Data Science course - LTAT.02.002 at the University of Tartu 2023.
 
 ### The team
 Group number - H9
