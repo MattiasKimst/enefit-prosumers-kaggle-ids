@@ -16,9 +16,11 @@ All of code created during the project is stored in one notebook that is accessi
 <br>
 H9_report.pdf includes report regarding business and data understanding.
 <br>
-The data used in the project was provided by organiser of the competition, Enefit. Due to the size of the data exceeding Github file size limits, the data files are not included in this repository. The data could be accessed at the competiton page https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers/data or from the link to the notebook below
+The data used in the project was provided by organiser of the competition, Enefit. Due to the size of the data exceeding Github file size limits, the data files are not included in this repository. The data could be accessed at the competiton page https://www.kaggle.com/competitions/predict-energy-behavior-of-prosumers/data or from the link to the notebook below. Input data can be accessed by following the link at the end of this readme any selecting "Input" tab. Similarly, output csv file with predicted targets and figures created within notebook could be accessed from "Output" tab.
+
 
 ### How it is possible to take the code and replicate the same analysis that the authors have done
+To replicate the analysis you can examine code provided in the notebook or follow the link at the end of this readme, signup for the Enefit competition to access data files and choose copy&edit option from the top right corner of this notebook.
 ## The link to the notebook: https://www.kaggle.com/mattiaskimst/enefit-kaggle-ids-h9
 
 
